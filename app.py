@@ -97,7 +97,7 @@ st.markdown('<div class="card">', unsafe_allow_html=True)
 
 st.image("dewan_logo.png", use_container_width=False)
 
-st.markdown("<h1>Congratulations!</h1>", unsafe_allow_html=True)
+st.markdown("<h1>Congratulations</h1>", unsafe_allow_html=True)
 st.markdown("<h3>Women Grievance Cell – Dewan College</h3>", unsafe_allow_html=True)
 
 st.markdown(
