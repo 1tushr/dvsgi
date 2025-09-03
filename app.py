@@ -106,6 +106,9 @@ st.markdown(
         Thank you for your active participation and contribution.  
         Please click below to download your certificate.
     </p>
+    <p>
+        Certificate generation will stop at 4:30 PM.
+    </p>
     """,
     unsafe_allow_html=True,
 )
